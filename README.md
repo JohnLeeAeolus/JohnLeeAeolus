@@ -5,7 +5,7 @@ I am John Lee Aeolus Cadaño, a passionate coder with a knack for database manag
 
 ## Education
 - **BS Information Technology**
-  New Era University (2021-Present)
+  New Era University (2023-Present)
 
 ## Certification
 - [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=45B94FCA3317C024DFCCA8FCAC9F8496CF62960FEFE1B8718C47A8FAC236E0F4&fbclid=IwAR0wi0xXSM8gEjXIGwOUclGqOJZSpPLxuf70B7NDUAYykgPB7XxUen3vMsw)
@@ -19,7 +19,7 @@ I am John Lee Aeolus Cadaño, a passionate coder with a knack for database manag
 - **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
 ## Connect with Me
-- **LinkedIn:** [LinkedIn Profile](linkedin-profile-link)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/john-lee-aeolus-cada%C3%B1o-3479b32a1/)
 - **Email:** johnleeeolusc@gmail.com
 
 ## Icons
