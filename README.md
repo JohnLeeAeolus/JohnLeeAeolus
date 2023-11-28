@@ -21,10 +21,3 @@ Salutations! My name is John Lee Aeolus Cadaño, and I'm a passionate and commit
 ## Connect with Me
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/john-lee-aeolus-cada%C3%B1o-3479b32a1/)
 - **Email:** johnleeeolusc@gmail.com
-
-## Icons
-- ![LinkedIn](https://fontawesome.com/icons/linkedin?style=brands)
-- ![Programming](https://fontawesome.com/icons/code?style=solid)
-- ![Databases](https://fontawesome.com/icons/database?style=solid)
-- ![Tools](https://fontawesome.com/icons/wrench?style=solid)
-
