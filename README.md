@@ -1,7 +1,7 @@
 # Hi there, I'm John Lee Aeolus Cadaño! 👋
 
 ## About Me
-I am John Lee Aeolus Cadaño, a passionate coder with a knack for database management. I enjoy tackling complex problems and crafting elegant solutions. My tech journey began with the BS Information Technology program.
+Salutations! My name is John Lee Aeolus Cadaño, and I'm a passionate and committed developer with extensive knowledge in database administration. I started my career by pursuing a bachelor's degree in information technology, which gave me a strong foundation in the ever-evolving field of technology.
 
 ## Education
 - **BS Information Technology**
@@ -22,12 +22,6 @@ I am John Lee Aeolus Cadaño, a passionate coder with a knack for database manag
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/john-lee-aeolus-cada%C3%B1o-3479b32a1/)
 - **Email:** johnleeeolusc@gmail.com
 
-## Icons
-- ![LinkedIn](linkedin-icon-link)
-- ![Programming](programming-icon-link)
-- ![Databases](databases-icon-link)
-- ![Tools](tools-icon-link)
-<!---
 JohnLeeAeolus/JohnLeeAeolus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
