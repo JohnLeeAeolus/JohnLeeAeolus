@@ -22,6 +22,12 @@ Salutations! My name is John Lee Aeolus Cadaño, and I'm a passionate and commit
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/john-lee-aeolus-cada%C3%B1o-3479b32a1/)
 - **Email:** johnleeeolusc@gmail.com
 
+## Icons
+- ![LinkedIn](linkedin-icon-link)
+- ![Programming](programming-icon-link)
+- ![Database Management](database-icon-link)
+- ![Tools](tools-icon-link)
+
 JohnLeeAeolus/JohnLeeAeolus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
