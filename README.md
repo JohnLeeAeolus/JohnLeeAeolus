@@ -28,6 +28,3 @@ Salutations! My name is John Lee Aeolus Cadaño, and I'm a passionate and commit
 - ![Databases](https://fontawesome.com/icons/database?style=solid)
 - ![Tools](https://fontawesome.com/icons/wrench?style=solid)
 
-JohnLeeAeolus/JohnLeeAeolus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
